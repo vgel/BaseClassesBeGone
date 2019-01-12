@@ -22,7 +22,7 @@ Is this endorsed by Notch/Mojang?
 
 No. This is an entirely unofficial, fan-made mod.
 
-What are your liscensing terms? Can I redistribute this?
+What are your licensing terms? Can I redistribute this?
 --------------------------------------------------------
 
 I haven't picked a liscese yet (help me open source gurus ;_;), so for now just don't please. Link to this repository.
@@ -32,7 +32,7 @@ How do I install/build this?
 First you'll need to decompile the launcher and fix all the errors. The obvious ones:
 - Decrement all the ints in the Util.getWorkingDirectory switch statement. It should go from 0 - 3, not 1 - 4.
 - The doPrivleged blocks are just f'ed up. Most can be commented out, though.
-Fix all the otehr errors. The entire launcher doesn't need to work, just enough to login and play.
+Fix all the other errors. The entire launcher doesn't need to work, just enough to login and play.
 Now create a directory and clone this repository into it.
 Put all the decompiled and fixed files from the launcher into place (DO NOT OVERWRITE GameUpdater.java)
 Set up git (refer to github documentation and my rules)  
