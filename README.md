@@ -22,7 +22,7 @@ Is this endorsed by Notch/Mojang?
 
 No. This is an entirely unofficial, fan-made mod.
 
-What are your liscensing terms? Can I redistribute this?
+What are your licensing terms? Can I redistribute this?
 --------------------------------------------------------
 
 I haven't picked a liscese yet (help me open source gurus ;_;), so for now just don't please. Link to this repository.
